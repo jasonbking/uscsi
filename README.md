@@ -8,5 +8,5 @@ handling (among other things), but it's a start.
 
 ## License
 
-Unless otherwise noted, all components are dual-licensed user the [MIT License]
-(./LICENSE-MIT) or the [Apache License Version 2.0](./LICENSE-APACHE).
+Unless otherwise noted, all components are dual-licensed user the [MIT
+License](./LICENSE-MIT) or the [Apache License Version 2.0](./LICENSE-APACHE).
